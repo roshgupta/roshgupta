@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 
-- 📫 How to reach me **gpta.duke.rohan.1219@gmail.com**
+- 📫 How to reach me, just drop a mail at **gpta.duke.rohan.1219@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
