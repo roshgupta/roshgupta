@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Gupta</h1>
 <h3 align="center">A passionate developer and a continuous learner.</h3>
-<h4>Glad to see you here.</h4>
+<h4 align="center">Glad to see you here.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="roshgupta" /> </p>
 
 
